@@ -14,7 +14,7 @@ Through this project, you will:
 ## 🔗 Learning Materials
 To deepen your understanding of GenAI, refer to the following curated learning resource:
 
-[👉 Prompting 101 by Google ](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
+[👉 [ Google ] Prompting 101 by Google ](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
 
 [👉 [ MICROSOFT ] 21 Lessons, Get Started Building with Generative AI ](https://github.com/microsoft/generative-ai-for-beginners)
 
@@ -31,13 +31,13 @@ This material covers the basics of GenAI, explains concepts in easy language, an
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/genai-introduction.git
-    cd genai-introduction
+    git clone https://github.com/oshyam/genAI.git
+    cd genAI
     ```
 
 2. **Explore Examples**
-    - Navigate to the `examples/` folder to review practical GenAI demos.
-    - Includes text generation, image synthesis, and prompt engineering basics.
+    - Navigate to the `Learnning Resources/` folder to review practical GenAI demos.
+    - Includes prompt engineering basics, text generation, image synthesis,etc.
 
 3. **Run Notebooks**
     - Open `notebooks/` in Jupyter Notebook or Google Colab.
