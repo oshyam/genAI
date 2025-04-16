@@ -1,6 +1,6 @@
 # Reference taken from Krish's Complete-Python-Bootcamp
 
-[👉 Checkout his repo ](https://www.cloudskillsboost.google/paths/118)
+[👉 Checkout his repo ](https://github.com/krishnaik06/Complete-Python-Bootcamp)
 
 ## ⚙️ How to Use Krish's Repo
 
