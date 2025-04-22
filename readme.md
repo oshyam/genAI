@@ -14,6 +14,8 @@ Through this project, you will:
 ## 🔗 Learning Materials
 To deepen your understanding of GenAI, refer to the following curated learning resource:
 
+[👉 Complete Prompt-Engineering Guide ]( https://github.com/dair-ai/Prompt-Engineering-Guide/ )
+
 [👉 [ Google ] Prompting 101 by Google ](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
 
 [👉 [ MICROSOFT ] 21 Lessons, Get Started Building with Generative AI ](https://github.com/microsoft/generative-ai-for-beginners)
